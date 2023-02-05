@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://alpkant.github.io/sitemap.xml
